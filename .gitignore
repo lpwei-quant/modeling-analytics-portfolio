@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.local/
+.local-inputs/
+**/problem/
+**/templates/
+projects/**/output/
+projects/**/output_new/
+**/result_tables/
+tmp/
+.env
+*.log

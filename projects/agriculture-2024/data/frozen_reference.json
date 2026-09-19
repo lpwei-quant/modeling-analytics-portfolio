@@ -1,0 +1,24 @@
+{
+  "classification": "Derived / Simulated; frozen historical evidence",
+  "evaluation_design": {
+    "common_random_numbers": true,
+    "optimization_performed": false,
+    "sampling_method": "mc",
+    "scenario_count": 3000,
+    "scenario_fingerprint_sha256": "960991C4DD0A17AC55A5D40B10549C43AA5CFB21D98412454286EFD81BB57DC4",
+    "seed": 20240821
+  },
+  "source_summary": "outputs/q3/q3_oos_3000_summary.csv",
+  "source_pathwise": "outputs/q3/q3_oos_3000_pathwise.csv",
+  "source_fingerprint_status": "historical reference; runtime float library can affect binary fingerprint",
+  "sensitivity_rows": 36,
+  "summary_rows": 4,
+  "q3_vs_q2_planting_pattern": {
+    "cell_area_l1_mu": 9290.505404804951,
+    "changed_cells": 583,
+    "crop_area_correlation": 0.9996084285123561,
+    "crop_total_area_l1_mu": 206.27649292676946,
+    "normalized_cell_area_l1": 0.9949138364537319,
+    "normalized_crop_total_area_l1": 0.022090007809677594
+  }
+}

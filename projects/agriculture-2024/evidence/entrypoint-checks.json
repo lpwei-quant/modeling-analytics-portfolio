@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "entry": "scripts/run_q1.py",
+      "check": "import without main",
+      "passed": true
+    },
+    {
+      "entry": "scripts/run_q2.py",
+      "check": "--help",
+      "passed": true
+    },
+    {
+      "entry": "scripts/run_q3.py",
+      "check": "--help",
+      "passed": true
+    },
+    {
+      "entry": "scripts/run_q2_deadline_closure.py",
+      "check": "--help",
+      "passed": true
+    },
+    {
+      "entry": "scripts/reproduce_core.py",
+      "check": "--help",
+      "passed": true
+    }
+  ],
+  "input_preparation": {
+    "status": "PREPARED",
+    "plots": 54,
+    "crops": 41,
+    "historical_optimizations_rerun": false,
+    "historical_q2_q3_freeze_records_included": false
+  },
+  "optimization_run": false
+}

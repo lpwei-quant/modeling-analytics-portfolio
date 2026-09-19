@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "original_project_label": "CUMCM-2024C-AI-Lab (private training archive; relative paths only)",
+  "records": [
+    {
+      "original_relative_path": "paper_repo/source/src/q1_data.py",
+      "original_sha256": "3C4DFEBF9C1BB638CCAA884CA9D2E184BE48E4405D8BCCCD371434AB67B919DA",
+      "public_relative_path": "src/q1_data.py",
+      "public_sha256": "3C4DFEBF9C1BB638CCAA884CA9D2E184BE48E4405D8BCCCD371434AB67B919DA",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q1_model.py",
+      "original_sha256": "47665EDBD4535D6CF272C01497CFEDC7E7C7C9C385D2233AEA8302909FF1758A",
+      "public_relative_path": "src/q1_model.py",
+      "public_sha256": "47665EDBD4535D6CF272C01497CFEDC7E7C7C9C385D2233AEA8302909FF1758A",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q2_config.py",
+      "original_sha256": "2836956C37B455D8378C774FF61262A99D07C05879110ADF395D65F3BBB02BAE",
+      "public_relative_path": "src/q2_config.py",
+      "public_sha256": "2836956C37B455D8378C774FF61262A99D07C05879110ADF395D65F3BBB02BAE",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q2_model.py",
+      "original_sha256": "F40269C003C40DD1B810B15A3857E76CABAA94C4BB57F67AFA60EDFDF2A6E2C4",
+      "public_relative_path": "src/q2_model.py",
+      "public_sha256": "F40269C003C40DD1B810B15A3857E76CABAA94C4BB57F67AFA60EDFDF2A6E2C4",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q2_uncertainty.py",
+      "original_sha256": "D68105AF8AA83A957A775F20319F1FFC05BC83D5445520AB345DFB59CC9F03F7",
+      "public_relative_path": "src/q2_uncertainty.py",
+      "public_sha256": "D68105AF8AA83A957A775F20319F1FFC05BC83D5445520AB345DFB59CC9F03F7",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q2_validate.py",
+      "original_sha256": "7C19803850EA80F4E710A56B4EED7C5C41058B5B0D55318765E5E828F4357C30",
+      "public_relative_path": "src/q2_validate.py",
+      "public_sha256": "7C19803850EA80F4E710A56B4EED7C5C41058B5B0D55318765E5E828F4357C30",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q3_config.py",
+      "original_sha256": "0EB43B510D1A41727575764EC7A10D97DADCC6052C0CF47964B4763AD3A91E33",
+      "public_relative_path": "src/q3_config.py",
+      "public_sha256": "0EB43B510D1A41727575764EC7A10D97DADCC6052C0CF47964B4763AD3A91E33",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q3_scenarios.py",
+      "original_sha256": "71F6E7A2E95DAD1EC4E9E9AFF9C4B363CEC07B76AA30471771B850F859E88147",
+      "public_relative_path": "src/q3_scenarios.py",
+      "public_sha256": "71F6E7A2E95DAD1EC4E9E9AFF9C4B363CEC07B76AA30471771B850F859E88147",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q3_validate.py",
+      "original_sha256": "ACF8292337B1652685E31FA50AC358EFB37ED5B97CECFCEDB33A8E152D1BE3C3",
+      "public_relative_path": "src/q3_validate.py",
+      "public_sha256": "ACF8292337B1652685E31FA50AC358EFB37ED5B97CECFCEDB33A8E152D1BE3C3",
+      "transformation": "byte-identical frozen source"
+    },
+    {
+      "original_relative_path": "outputs/q2/q2_final_plan.csv",
+      "original_sha256": "CF6D608FBFED134FCAB6FEDF0C58FD727DC49A457047B8EC22B9DF83347F1462",
+      "public_relative_path": "data/q2_final_plan.csv",
+      "public_sha256": "914DC3E9078957CA38465A88EA3EAA028C2CAFE3501ADBF60ED34652029DDBBF",
+      "transformation": "Select plot,crop_id,year,season,area_mu; omit exactly zero cells; retain positive numeric strings without rounding (source minimum area=0)"
+    },
+    {
+      "original_relative_path": "outputs/q3/q3_final_plan.csv",
+      "original_sha256": "9E9D1B998FA70CDFBD9044C9BA6E2700FE810FF22C2CE209801FE5EF92BA77E6",
+      "public_relative_path": "data/q3_final_plan.csv",
+      "public_sha256": "91F1C0D6A1D2ABC85F2A5DB972596B083342E0F6A25BE7F3D9EAD84A6E4D75F4",
+      "transformation": "Select plot,crop_id,year,season,area_mu; omit exactly zero cells; retain positive numeric strings without rounding (source minimum area=0)"
+    },
+    {
+      "original_relative_path": "outputs/q3/q3_oos_3000_summary.csv",
+      "original_sha256": "A4C8A93F5656DF11DCB62F83A840E99BB61E6F5A66AC2DAE122886E023DDC9C7",
+      "public_relative_path": "data/q3_common_paths_summary.csv",
+      "public_sha256": "EDAFF8611177D2DF5FD14352C9EA9659910AA7A7218AF32BA8EF37AF8EA669DD",
+      "transformation": "Keep frozen Q2 and Q3 final plans in shared Q3 environment; retain both surplus rules"
+    },
+    {
+      "original_relative_path": "outputs/q3/q3_oos_3000_pathwise.csv",
+      "original_sha256": "8F2B764362D8CAB4F7104DB62934538AC4727F5902AFD1C3A6B7B948F72E44C0",
+      "public_relative_path": "data/q3_common_paths_profits.csv",
+      "public_sha256": "47783E545A9B1B95E124E6AB5175CAFCF68626801621400859F3CD6396852D68",
+      "transformation": "Filter half-price surplus and Q2/Q3; pivot scenario index; retain profit strings"
+    },
+    {
+      "original_relative_path": "outputs/q3/q3_sensitivity_summary.csv",
+      "original_sha256": "3AC59DCC7AD03B3E90E805635703FE2FB8F518BD3B47B578941D226B9F8A8A3A",
+      "public_relative_path": "data/q3_sensitivity_summary.csv",
+      "public_sha256": "3AC59DCC7AD03B3E90E805635703FE2FB8F518BD3B47B578941D226B9F8A8A3A",
+      "transformation": "byte-identical derived sensitivity summary"
+    },
+    {
+      "original_relative_path": "data/附件1 (1).xlsx",
+      "original_sha256": "B799A137294A5C5497FED9667C5DFED6C967F1FB180316C5ADC8509CFA6F0932",
+      "public_relative_path": "data/input_basis.json",
+      "public_sha256": "83777D68FC6F7D74DC5C36AA988D1AEC54A4078838AD99B293D30957FA29C158",
+      "transformation": "Normalize necessary typed fields using frozen q1_data.py; no raw workbook included"
+    },
+    {
+      "original_relative_path": "data/附件2 (2).xlsx",
+      "original_sha256": "869081A3AB47D3BF8D0955106B622AAF0FD2C068FADA7948DA69B20EBF1D00CE",
+      "public_relative_path": "data/input_basis.json",
+      "public_sha256": "83777D68FC6F7D74DC5C36AA988D1AEC54A4078838AD99B293D30957FA29C158",
+      "transformation": "Normalize necessary typed fields using frozen q1_data.py; no raw workbook included"
+    },
+    {
+      "original_relative_path": "research/baseline_2023.csv",
+      "original_sha256": "42EBA1B7A9974C68C5D020A5EEEFB3A03C4D95F2FBEB0C06EB43FAD0D87BBA6B",
+      "public_relative_path": "data/input_basis.json",
+      "public_sha256": "83777D68FC6F7D74DC5C36AA988D1AEC54A4078838AD99B293D30957FA29C158",
+      "transformation": "Normalize necessary typed fields using frozen q1_data.py; no raw workbook included"
+    },
+    {
+      "original_relative_path": "outputs/q3/q3_oos_3000_evaluation.json",
+      "original_sha256": "8B1B98C6B7FBD0631FDA7F30B2E8FD846A296DDB54C0DA7DF69A152B900ABB20",
+      "public_relative_path": "data/frozen_reference.json",
+      "public_sha256": "016DFB72A5200D886FD40AD1F962CE7CE17CEEE35028D6B3A6D89D9D807122B7",
+      "transformation": "Select design metadata and planting-pattern diagnostics; omit unrelated logs and receipts"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/build_2023_baseline.py",
+      "original_sha256": "3f51676fca63019c3f679db6259a598cb770eac2ed09f3732ed0848d3947ed51",
+      "public_relative_path": "src/build_2023_baseline.py",
+      "public_sha256": "3f51676fca63019c3f679db6259a598cb770eac2ed09f3732ed0848d3947ed51",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q1_outputs.py",
+      "original_sha256": "45b881fcc43aeacd0c08ac296e4fa98242c7c4829a61fc2771dfd77bbbea4bf4",
+      "public_relative_path": "src/q1_outputs.py",
+      "public_sha256": "45b881fcc43aeacd0c08ac296e4fa98242c7c4829a61fc2771dfd77bbbea4bf4",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q1_validate.py",
+      "original_sha256": "3c9e3b341cf279940828e2e0cb82f461a031befb9653dac7980922753786a313",
+      "public_relative_path": "src/q1_validate.py",
+      "public_sha256": "3c9e3b341cf279940828e2e0cb82f461a031befb9653dac7980922753786a313",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q2_outputs.py",
+      "original_sha256": "1d23bb2c7d8d8f00ddcc2d0e8ed16cd15ec1d517ce2c05bf6678a9902575dd1e",
+      "public_relative_path": "src/q2_outputs.py",
+      "public_sha256": "1d23bb2c7d8d8f00ddcc2d0e8ed16cd15ec1d517ce2c05bf6678a9902575dd1e",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/src/q3_model.py",
+      "original_sha256": "d78af1b9fe5175094566e3e6f6fb43618e07d4de5bcc360848ee4fd66ae59de5",
+      "public_relative_path": "src/q3_model.py",
+      "public_sha256": "d78af1b9fe5175094566e3e6f6fb43618e07d4de5bcc360848ee4fd66ae59de5",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/scripts/reproduce_core.py",
+      "original_sha256": "adda28fb878e3dcf536add4797478cb61937cd2f926ff943ff544b505369d542",
+      "public_relative_path": "scripts/reproduce_core.py",
+      "public_sha256": "adda28fb878e3dcf536add4797478cb61937cd2f926ff943ff544b505369d542",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/scripts/run_q1.py",
+      "original_sha256": "e2dee34a1a183572bb1fa530dd231ec75dddebf0114657afc43806368ee95685",
+      "public_relative_path": "scripts/run_q1.py",
+      "public_sha256": "e2dee34a1a183572bb1fa530dd231ec75dddebf0114657afc43806368ee95685",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/scripts/run_q2.py",
+      "original_sha256": "d5920d35bb0c5ee8a3dde513fd5a7aa6543c13001d2d41bc59da63d0f5771be2",
+      "public_relative_path": "scripts/run_q2.py",
+      "public_sha256": "d5920d35bb0c5ee8a3dde513fd5a7aa6543c13001d2d41bc59da63d0f5771be2",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "paper_repo/source/scripts/run_q3.py",
+      "original_sha256": "e568208a25faf55b0dba727dd90d46169b4f67fccc227b1ac7e61fb7bbcdf9f2",
+      "public_relative_path": "scripts/run_q3.py",
+      "public_sha256": "e568208a25faf55b0dba727dd90d46169b4f67fccc227b1ac7e61fb7bbcdf9f2",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "src/create_q2_freeze_manifest_v1.py",
+      "original_sha256": "355e252581d378294f29a8062eff85dd8db6c53a95482cd956dce2b43ec42987",
+      "public_relative_path": "src/create_q2_freeze_manifest_v1.py",
+      "public_sha256": "355e252581d378294f29a8062eff85dd8db6c53a95482cd956dce2b43ec42987",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "scripts/run_q2_deadline_closure.py",
+      "original_sha256": "0a27404429561c499adeed16330ec1b606988427a081e0fda41478987bd4e2f9",
+      "public_relative_path": "scripts/run_q2_deadline_closure.py",
+      "public_sha256": "0a27404429561c499adeed16330ec1b606988427a081e0fda41478987bd4e2f9",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "research/baseline_2023.csv",
+      "original_sha256": "42eba1b7a9974c68c5d020a5eeefb3a03c4d95f2fbeb0c06eb43fad0d87bba6b",
+      "public_relative_path": "historical-inputs/baseline_2023.csv",
+      "public_sha256": "42eba1b7a9974c68c5d020a5eeefb3a03c4d95f2fbeb0c06eb43fad0d87bba6b",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    },
+    {
+      "original_relative_path": "research/modeling_decisions_v1.md",
+      "original_sha256": "8bed150660e93df5a980df55a50d8cdf42350cbfdbd16d9020cc28784e4ba5eb",
+      "public_relative_path": "historical-inputs/modeling_decisions_v1.md",
+      "public_sha256": "8bed150660e93df5a980df55a50d8cdf42350cbfdbd16d9020cc28784e4ba5eb",
+      "transformation": "byte-identical historical source or input; frozen assumptions, not a new approval"
+    }
+  ],
+  "document_sources": [
+    {
+      "relative_path": "research/final_paper_source_map.md",
+      "sha256": "EB358980F65D4A95FEBEEFCD828B89EA114821690E1CF423B41B818F6AA48FE7"
+    },
+    {
+      "relative_path": "research/modeling_decisions_v1.md",
+      "sha256": "8BED150660E93DF5A980DF55A50D8CDF42350CBFDBD16D9020CC28784E4BA5EB"
+    },
+    {
+      "relative_path": "research/q2_mathematical_formulation.md",
+      "sha256": "2F0C24B28F3BCC6305AE0795B241E248A91C63151219541FE9478A465DC83E90"
+    },
+    {
+      "relative_path": "research/q3_dependency_design.md",
+      "sha256": "3BAB0663F02157B77FCB84C73AA72EEF051FF361C851189889CCDD6AEDDC9833"
+    },
+    {
+      "relative_path": "paper_repo/audit/final_audit.md",
+      "sha256": "25475754F1A43B774E5DA9B7412F256F96DB878321F9684694D6C3F847873916"
+    }
+  ],
+  "official_inputs": [
+    {
+      "filename": "C题.pdf",
+      "original_filename": "problem/C题 (1).pdf",
+      "sha256": "C7B5E58BFF4189B8AFBA5505F7BFF7D4F08280FC291C51EF3F46134EBBF74F9A"
+    },
+    {
+      "filename": "附件1.xlsx",
+      "sha256": "B799A137294A5C5497FED9667C5DFED6C967F1FB180316C5ADC8509CFA6F0932"
+    },
+    {
+      "filename": "附件2.xlsx",
+      "sha256": "869081A3AB47D3BF8D0955106B622AAF0FD2C068FADA7948DA69B20EBF1D00CE"
+    }
+  ]
+}

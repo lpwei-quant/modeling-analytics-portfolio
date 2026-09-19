@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "scope": "Fresh Q1 solve, physical ledger, frozen 334-day aggregate reconciliation; no fresh annual optimization",
+  "q1_slots": 144,
+  "q1_cost_yuan": 35126.94858928962,
+  "q1_without_storage_yuan": 48052.04659084666,
+  "q1_saving_percent": 26.898121762870176,
+  "simultaneous_slots": 0,
+  "errors": {
+    "balance_kwh": 1.000444171950221e-11,
+    "inventory_recursion_kwh": 9.094947017729282e-12,
+    "initial_stock_kwh": 0.0,
+    "terminal_stock_kwh": 0.0,
+    "below_stock_min_kwh": 0.0,
+    "above_stock_max_kwh": 0.0,
+    "above_charge_limit_kwh": 0.0,
+    "above_discharge_limit_kwh": 0.0,
+    "negative_grid_or_actions_kwh": 0.0,
+    "cost_difference_yuan": 7.275957614183426e-12,
+    "frozen_dispatch_cost_difference_yuan": 7.275957614183426e-12
+  },
+  "cash_identity_errors_yuan": {
+    "q2/D": 1.862645149230957e-09,
+    "q2/S": 1.862645149230957e-09,
+    "q2/F_fast": 0.0,
+    "q3/Z1_000": 0.0,
+    "q3/Z1_010": 0.0,
+    "q3/Z1_011": 1.862645149230957e-09,
+    "q3/Z1_111": 1.862645149230957e-09,
+    "q3/Z2_110": 0.0,
+    "q3/Z2_111": 0.0,
+    "q4_2/known_day_ahead": 0.0,
+    "q4_2/previous_day_forecast": 0.0,
+    "q4_3/known_day_ahead": 0.0,
+    "q4_3/previous_day_forecast": 0.0
+  },
+  "daily_aggregate_errors_yuan": {
+    "D": 0.0,
+    "S": 0.0,
+    "F_fast": 0.0
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1"
+  },
+  "source_sha256": "f92454d219472e58a8e1bbbf84d26fc46635c1dc68d2ab852ba98ecc8e6efe0f"
+}

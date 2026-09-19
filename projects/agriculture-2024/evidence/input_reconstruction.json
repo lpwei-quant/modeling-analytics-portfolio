@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "method": "scripts/prepare_inputs.py; frozen q1_data readers; crop-season area-times-yield aggregation",
+  "input_hashes": {
+    "attachment_1": "B799A137294A5C5497FED9667C5DFED6C967F1FB180316C5ADC8509CFA6F0932",
+    "attachment_2": "869081A3AB47D3BF8D0955106B622AAF0FD2C068FADA7948DA69B20EBF1D00CE"
+  },
+  "all_basis_fields_equal": true,
+  "dimensions": {
+    "plots": 54,
+    "crops": 41,
+    "parameters": 125,
+    "plantings_2023": 87,
+    "expected_sales_proxy": 47
+  },
+  "raw_workbooks_copied": false,
+  "source_archive_files_modified": false,
+  "basis_sha256": "83777D68FC6F7D74DC5C36AA988D1AEC54A4078838AD99B293D30957FA29C158",
+  "prepare_script_sha256": "D8E1906DF31F026B4031E589B604783D223F8A65F8784189A30F48D88B7B5068"
+}

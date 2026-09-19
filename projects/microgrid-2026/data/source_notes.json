@@ -1,0 +1,14 @@
+{
+  "classification": "Derived from frozen competition model results; not field savings",
+  "source_version": "v17",
+  "source": "paper/c_all_v17/repro/results_summary.json",
+  "source_sha256": "857c779e6779bcccc813005f56f790acb34217e4ce30e001ae388dca2155cfd4",
+  "evaluation_dates": [
+    "2025-02-01",
+    "2025-12-31"
+  ],
+  "cost_identity": "plan_cost + adjustment_cost + emergency_cost = total_cash",
+  "stock_note": "Cash comparisons report terminal inventory; no terminal-stock matching is implied",
+  "q1_input": "F04_q1_dispatch.csv price/load/pv columns reproduce the audited official input after kW to kWh conversion",
+  "selection": "Q3 configuration selected retrospectively from the compared full-year configurations"
+}

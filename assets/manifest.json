@@ -1,0 +1,55 @@
+{
+  "classification": "Derived visualizations of historical model outputs and Simulated agricultural scenarios",
+  "inputs": [
+    {
+      "path": "projects/microgrid-2026/data/F04_q1_dispatch.csv",
+      "sha256": "f92454d219472e58a8e1bbbf84d26fc46635c1dc68d2ab852ba98ecc8e6efe0f"
+    },
+    {
+      "path": "projects/microgrid-2026/data/strategy_summary.csv",
+      "sha256": "24e47fa7c787b115a5af68d709e70deb8df94d07250efe63c86a2df249759158"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_common_paths_profits.csv",
+      "sha256": "47783e545a9b1b95e124e6ab5175cafcf68626801621400859f3cd6396852d68"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_sensitivity_summary.csv",
+      "sha256": "3ac59dcc7ad03b3e90e805635703fe2fb8f518bd3b47b578941d226b9f8a8a3a"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "assets/microgrid-dispatch.png",
+      "sha256": "14f86f4120f70cc4e520dfcc6f9e5383cf93074de20a6f316600b03459f25871"
+    },
+    {
+      "path": "assets/microgrid-dispatch.svg",
+      "sha256": "73410ba2855174eb6e7b1e570af8ba6e939140d4f00253683d8da2077f4c9710"
+    },
+    {
+      "path": "assets/microgrid-costs.png",
+      "sha256": "1c7491b04f15da4aa29e8c1c7381ec3639ae1afc81b8d54bfabed9ecbb483d15"
+    },
+    {
+      "path": "assets/microgrid-costs.svg",
+      "sha256": "3c5f93eedd931e9ccecbdb6d84f98795dcac0192569ccd5b561636f5473742f3"
+    },
+    {
+      "path": "assets/agriculture-distribution.png",
+      "sha256": "661c0c99f3a7503f53eef6a131edec9d07ffbb16ed0b5ae2d5d435357cdecc2d"
+    },
+    {
+      "path": "assets/agriculture-distribution.svg",
+      "sha256": "2206454722b43ebe4e829c4c46745fe8ae355cbacd1a389b84d4d3d9689d1340"
+    },
+    {
+      "path": "assets/agriculture-risk.png",
+      "sha256": "b607288a2b8d7f9f5ab3c1727b494e10b4a23d5d66df0a6deca163bd8f2a164d"
+    },
+    {
+      "path": "assets/agriculture-risk.svg",
+      "sha256": "7fdf07e46e27a1eac48772a91ab33c57edd8e2ac945c4c7f0a5a39bb36c360e3"
+    }
+  ]
+}

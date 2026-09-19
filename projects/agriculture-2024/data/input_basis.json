@@ -1,0 +1,2712 @@
+{
+  "schema_version": 1,
+  "classification": "Derived input basis; demand proxy is an Assumption",
+  "plots": [
+    {
+      "name": "A1",
+      "land_type": "平旱地",
+      "area_mu": 80.0
+    },
+    {
+      "name": "A2",
+      "land_type": "平旱地",
+      "area_mu": 55.0
+    },
+    {
+      "name": "A3",
+      "land_type": "平旱地",
+      "area_mu": 35.0
+    },
+    {
+      "name": "A4",
+      "land_type": "平旱地",
+      "area_mu": 72.0
+    },
+    {
+      "name": "A5",
+      "land_type": "平旱地",
+      "area_mu": 68.0
+    },
+    {
+      "name": "A6",
+      "land_type": "平旱地",
+      "area_mu": 55.0
+    },
+    {
+      "name": "B1",
+      "land_type": "梯田",
+      "area_mu": 60.0
+    },
+    {
+      "name": "B2",
+      "land_type": "梯田",
+      "area_mu": 46.0
+    },
+    {
+      "name": "B3",
+      "land_type": "梯田",
+      "area_mu": 40.0
+    },
+    {
+      "name": "B4",
+      "land_type": "梯田",
+      "area_mu": 28.0
+    },
+    {
+      "name": "B5",
+      "land_type": "梯田",
+      "area_mu": 25.0
+    },
+    {
+      "name": "B6",
+      "land_type": "梯田",
+      "area_mu": 86.0
+    },
+    {
+      "name": "B7",
+      "land_type": "梯田",
+      "area_mu": 55.0
+    },
+    {
+      "name": "B8",
+      "land_type": "梯田",
+      "area_mu": 44.0
+    },
+    {
+      "name": "B9",
+      "land_type": "梯田",
+      "area_mu": 50.0
+    },
+    {
+      "name": "B10",
+      "land_type": "梯田",
+      "area_mu": 25.0
+    },
+    {
+      "name": "B11",
+      "land_type": "梯田",
+      "area_mu": 60.0
+    },
+    {
+      "name": "B12",
+      "land_type": "梯田",
+      "area_mu": 45.0
+    },
+    {
+      "name": "B13",
+      "land_type": "梯田",
+      "area_mu": 35.0
+    },
+    {
+      "name": "B14",
+      "land_type": "梯田",
+      "area_mu": 20.0
+    },
+    {
+      "name": "C1",
+      "land_type": "山坡地",
+      "area_mu": 15.0
+    },
+    {
+      "name": "C2",
+      "land_type": "山坡地",
+      "area_mu": 13.0
+    },
+    {
+      "name": "C3",
+      "land_type": "山坡地",
+      "area_mu": 15.0
+    },
+    {
+      "name": "C4",
+      "land_type": "山坡地",
+      "area_mu": 18.0
+    },
+    {
+      "name": "C5",
+      "land_type": "山坡地",
+      "area_mu": 27.0
+    },
+    {
+      "name": "C6",
+      "land_type": "山坡地",
+      "area_mu": 20.0
+    },
+    {
+      "name": "D1",
+      "land_type": "水浇地",
+      "area_mu": 15.0
+    },
+    {
+      "name": "D2",
+      "land_type": "水浇地",
+      "area_mu": 10.0
+    },
+    {
+      "name": "D3",
+      "land_type": "水浇地",
+      "area_mu": 14.0
+    },
+    {
+      "name": "D4",
+      "land_type": "水浇地",
+      "area_mu": 6.0
+    },
+    {
+      "name": "D5",
+      "land_type": "水浇地",
+      "area_mu": 10.0
+    },
+    {
+      "name": "D6",
+      "land_type": "水浇地",
+      "area_mu": 12.0
+    },
+    {
+      "name": "D7",
+      "land_type": "水浇地",
+      "area_mu": 22.0
+    },
+    {
+      "name": "D8",
+      "land_type": "水浇地",
+      "area_mu": 20.0
+    },
+    {
+      "name": "E1",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E2",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E3",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E4",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E5",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E6",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E7",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E8",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E9",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E10",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E11",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E12",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E13",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E14",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E15",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "E16",
+      "land_type": "普通大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "F1",
+      "land_type": "智慧大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "F2",
+      "land_type": "智慧大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "F3",
+      "land_type": "智慧大棚",
+      "area_mu": 0.6
+    },
+    {
+      "name": "F4",
+      "land_type": "智慧大棚",
+      "area_mu": 0.6
+    }
+  ],
+  "crops": [
+    {
+      "crop_id": 1,
+      "name": "黄豆",
+      "crop_type": "粮食（豆类）"
+    },
+    {
+      "crop_id": 2,
+      "name": "黑豆",
+      "crop_type": "粮食（豆类）"
+    },
+    {
+      "crop_id": 3,
+      "name": "红豆",
+      "crop_type": "粮食（豆类）"
+    },
+    {
+      "crop_id": 4,
+      "name": "绿豆",
+      "crop_type": "粮食（豆类）"
+    },
+    {
+      "crop_id": 5,
+      "name": "爬豆",
+      "crop_type": "粮食（豆类）"
+    },
+    {
+      "crop_id": 6,
+      "name": "小麦",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 7,
+      "name": "玉米",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 8,
+      "name": "谷子",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 9,
+      "name": "高粱",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 10,
+      "name": "黍子",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 11,
+      "name": "荞麦",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 12,
+      "name": "南瓜",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 13,
+      "name": "红薯",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 14,
+      "name": "莜麦",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 15,
+      "name": "大麦",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 16,
+      "name": "水稻",
+      "crop_type": "粮食"
+    },
+    {
+      "crop_id": 17,
+      "name": "豇豆",
+      "crop_type": "蔬菜（豆类）"
+    },
+    {
+      "crop_id": 18,
+      "name": "刀豆",
+      "crop_type": "蔬菜（豆类）"
+    },
+    {
+      "crop_id": 19,
+      "name": "芸豆",
+      "crop_type": "蔬菜（豆类）"
+    },
+    {
+      "crop_id": 20,
+      "name": "土豆",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 21,
+      "name": "西红柿",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 22,
+      "name": "茄子",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 23,
+      "name": "菠菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 24,
+      "name": "青椒",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 25,
+      "name": "菜花",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 26,
+      "name": "包菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 27,
+      "name": "油麦菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 28,
+      "name": "小青菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 29,
+      "name": "黄瓜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 30,
+      "name": "生菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 31,
+      "name": "辣椒",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 32,
+      "name": "空心菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 33,
+      "name": "黄心菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 34,
+      "name": "芹菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 35,
+      "name": "大白菜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 36,
+      "name": "白萝卜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 37,
+      "name": "红萝卜",
+      "crop_type": "蔬菜"
+    },
+    {
+      "crop_id": 38,
+      "name": "榆黄菇",
+      "crop_type": "食用菌"
+    },
+    {
+      "crop_id": 39,
+      "name": "香菇",
+      "crop_type": "食用菌"
+    },
+    {
+      "crop_id": 40,
+      "name": "白灵菇",
+      "crop_type": "食用菌"
+    },
+    {
+      "crop_id": 41,
+      "name": "羊肚菌",
+      "crop_type": "食用菌"
+    }
+  ],
+  "parameters": [
+    {
+      "crop_id": 1,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 400.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 2,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 2,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 500.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 3,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 3,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 400.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 7.5,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 4,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 4,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 350.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 5,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 5,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 415.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 6,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 6,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 800.0,
+      "cost_yuan_per_mu": 450.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 7,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 7,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 1000.0,
+      "cost_yuan_per_mu": 500.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 3.5,
+      "source_excel_row": 8,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 8,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 400.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 9,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 9,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 630.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 10,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 10,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 525.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 11,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 11,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 110.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 30.0,
+      "price_upper_yuan_per_jin": 50.0,
+      "source_excel_row": 12,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 12,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 1000.0,
+      "price_lower_yuan_per_jin": 1.0,
+      "price_upper_yuan_per_jin": 2.0,
+      "source_excel_row": 13,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 13,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 2200.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 14,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 14,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 420.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 15,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 15,
+      "land_type": "平旱地",
+      "season": "单季",
+      "yield_jin_per_mu": 525.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 16,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 1,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 380.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 17,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 2,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 475.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 18,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 3,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 380.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 7.5,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 19,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 4,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 330.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 20,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 5,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 395.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 21,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 6,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 760.0,
+      "cost_yuan_per_mu": 450.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 22,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 7,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 950.0,
+      "cost_yuan_per_mu": 500.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 3.5,
+      "source_excel_row": 23,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 8,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 380.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 24,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 9,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 600.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 25,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 10,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 500.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 26,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 11,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 105.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 30.0,
+      "price_upper_yuan_per_jin": 50.0,
+      "source_excel_row": 27,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 12,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 2850.0,
+      "cost_yuan_per_mu": 1000.0,
+      "price_lower_yuan_per_jin": 1.0,
+      "price_upper_yuan_per_jin": 2.0,
+      "source_excel_row": 28,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 13,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 2100.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 29,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 14,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 400.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 30,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 15,
+      "land_type": "梯田",
+      "season": "单季",
+      "yield_jin_per_mu": 500.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 31,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 1,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 360.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 32,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 2,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 450.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 33,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 3,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 360.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 7.5,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 34,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 4,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 315.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 35,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 5,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 375.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 36,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 6,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 720.0,
+      "cost_yuan_per_mu": 450.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 37,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 7,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 900.0,
+      "cost_yuan_per_mu": 500.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 3.5,
+      "source_excel_row": 38,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 8,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 360.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 39,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 9,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 570.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 40,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 10,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 475.0,
+      "cost_yuan_per_mu": 360.0,
+      "price_lower_yuan_per_jin": 6.5,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 41,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 11,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 100.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 30.0,
+      "price_upper_yuan_per_jin": 50.0,
+      "source_excel_row": 42,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 12,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 2700.0,
+      "cost_yuan_per_mu": 1000.0,
+      "price_lower_yuan_per_jin": 1.0,
+      "price_upper_yuan_per_jin": 2.0,
+      "source_excel_row": 43,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 13,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 2000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 44,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 14,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 380.0,
+      "cost_yuan_per_mu": 400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 45,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 15,
+      "land_type": "山坡地",
+      "season": "单季",
+      "yield_jin_per_mu": 475.0,
+      "cost_yuan_per_mu": 350.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 46,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 16,
+      "land_type": "水浇地",
+      "season": "单季",
+      "yield_jin_per_mu": 500.0,
+      "cost_yuan_per_mu": 680.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 47,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 17,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 7.0,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 48,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 18,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 2000.0,
+      "cost_yuan_per_mu": 1000.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 49,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 19,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 50,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 20,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 2000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.5,
+      "source_excel_row": 51,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 21,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 52,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 22,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 6400.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 53,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 23,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 2700.0,
+      "cost_yuan_per_mu": 2300.0,
+      "price_lower_yuan_per_jin": 4.8,
+      "price_upper_yuan_per_jin": 6.7,
+      "source_excel_row": 54,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 24,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 1600.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 55,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 25,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 3300.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 56,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 26,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 3700.0,
+      "cost_yuan_per_mu": 2900.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 57,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 27,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 4100.0,
+      "cost_yuan_per_mu": 1600.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 58,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 28,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 3200.0,
+      "cost_yuan_per_mu": 1600.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 59,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 29,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 12000.0,
+      "cost_yuan_per_mu": 2900.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 60,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 30,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 4100.0,
+      "cost_yuan_per_mu": 1600.0,
+      "price_lower_yuan_per_jin": 4.5,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 61,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 31,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 1600.0,
+      "cost_yuan_per_mu": 1000.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 62,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 32,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 10000.0,
+      "cost_yuan_per_mu": 4100.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 63,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 33,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 5.0,
+      "source_excel_row": 64,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 34,
+      "land_type": "水浇地",
+      "season": "第一季",
+      "yield_jin_per_mu": 5500.0,
+      "cost_yuan_per_mu": 900.0,
+      "price_lower_yuan_per_jin": 3.2,
+      "price_upper_yuan_per_jin": 4.8,
+      "source_excel_row": 65,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 17,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 7.0,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 66,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 18,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 1200.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 67,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 19,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 68,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 20,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.5,
+      "source_excel_row": 69,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 21,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 70,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 22,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 8000.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 71,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 23,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3300.0,
+      "cost_yuan_per_mu": 2700.0,
+      "price_lower_yuan_per_jin": 4.8,
+      "price_upper_yuan_per_jin": 6.7,
+      "source_excel_row": 72,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 24,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 73,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 25,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 3000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 74,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 26,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4500.0,
+      "cost_yuan_per_mu": 3500.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 75,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 27,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 76,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 28,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 77,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 29,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 15000.0,
+      "cost_yuan_per_mu": 3500.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 78,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 30,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.5,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 79,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 31,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2000.0,
+      "cost_yuan_per_mu": 1200.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 80,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 32,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 12000.0,
+      "cost_yuan_per_mu": 5000.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 81,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 33,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 6000.0,
+      "cost_yuan_per_mu": 2500.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 5.0,
+      "source_excel_row": 82,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 34,
+      "land_type": "普通大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 6600.0,
+      "cost_yuan_per_mu": 1100.0,
+      "price_lower_yuan_per_jin": 3.2,
+      "price_upper_yuan_per_jin": 4.8,
+      "source_excel_row": 83,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 35,
+      "land_type": "水浇地",
+      "season": "第二季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 2.0,
+      "price_upper_yuan_per_jin": 3.0,
+      "source_excel_row": 84,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 36,
+      "land_type": "水浇地",
+      "season": "第二季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 500.0,
+      "price_lower_yuan_per_jin": 2.0,
+      "price_upper_yuan_per_jin": 3.0,
+      "source_excel_row": 85,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 37,
+      "land_type": "水浇地",
+      "season": "第二季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 500.0,
+      "price_lower_yuan_per_jin": 2.5,
+      "price_upper_yuan_per_jin": 4.0,
+      "source_excel_row": 86,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 38,
+      "land_type": "普通大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 3000.0,
+      "price_lower_yuan_per_jin": 50.0,
+      "price_upper_yuan_per_jin": 65.0,
+      "source_excel_row": 87,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 39,
+      "land_type": "普通大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 18.0,
+      "price_upper_yuan_per_jin": 20.0,
+      "source_excel_row": 88,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 40,
+      "land_type": "普通大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 10000.0,
+      "cost_yuan_per_mu": 10000.0,
+      "price_lower_yuan_per_jin": 14.0,
+      "price_upper_yuan_per_jin": 18.0,
+      "source_excel_row": 89,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 41,
+      "land_type": "普通大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 1000.0,
+      "cost_yuan_per_mu": 10000.0,
+      "price_lower_yuan_per_jin": 80.0,
+      "price_upper_yuan_per_jin": 120.0,
+      "source_excel_row": 90,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 17,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 3200.0,
+      "cost_yuan_per_mu": 2640.0,
+      "price_lower_yuan_per_jin": 8.4,
+      "price_upper_yuan_per_jin": 10.8,
+      "source_excel_row": 91,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 18,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 2200.0,
+      "cost_yuan_per_mu": 1320.0,
+      "price_lower_yuan_per_jin": 6.6,
+      "price_upper_yuan_per_jin": 9.6,
+      "source_excel_row": 92,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 19,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 3200.0,
+      "cost_yuan_per_mu": 2640.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 9.6,
+      "source_excel_row": 93,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 20,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 2200.0,
+      "cost_yuan_per_mu": 2640.0,
+      "price_lower_yuan_per_jin": 3.6,
+      "price_upper_yuan_per_jin": 5.4,
+      "source_excel_row": 94,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 21,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 2700.0,
+      "cost_yuan_per_mu": 2640.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 95,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 22,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 7200.0,
+      "cost_yuan_per_mu": 2640.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.2,
+      "source_excel_row": 96,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 23,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 3000.0,
+      "price_lower_yuan_per_jin": 5.8,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 97,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 24,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 2700.0,
+      "cost_yuan_per_mu": 2200.0,
+      "price_lower_yuan_per_jin": 5.8,
+      "price_upper_yuan_per_jin": 7.8,
+      "source_excel_row": 98,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 25,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 3300.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.2,
+      "source_excel_row": 99,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 26,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 4100.0,
+      "cost_yuan_per_mu": 3850.0,
+      "price_lower_yuan_per_jin": 6.6,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 100,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 27,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 4500.0,
+      "cost_yuan_per_mu": 2200.0,
+      "price_lower_yuan_per_jin": 4.8,
+      "price_upper_yuan_per_jin": 7.2,
+      "source_excel_row": 101,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 28,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 2200.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 7.8,
+      "source_excel_row": 102,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 29,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 13500.0,
+      "cost_yuan_per_mu": 3850.0,
+      "price_lower_yuan_per_jin": 7.2,
+      "price_upper_yuan_per_jin": 9.6,
+      "source_excel_row": 103,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 30,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 4500.0,
+      "cost_yuan_per_mu": 2200.0,
+      "price_lower_yuan_per_jin": 5.4,
+      "price_upper_yuan_per_jin": 7.2,
+      "source_excel_row": 104,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 31,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 1800.0,
+      "cost_yuan_per_mu": 1300.0,
+      "price_lower_yuan_per_jin": 7.2,
+      "price_upper_yuan_per_jin": 10.2,
+      "source_excel_row": 105,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 32,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 11000.0,
+      "cost_yuan_per_mu": 5500.0,
+      "price_lower_yuan_per_jin": 3.6,
+      "price_upper_yuan_per_jin": 7.2,
+      "source_excel_row": 106,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 33,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 5400.0,
+      "cost_yuan_per_mu": 2750.0,
+      "price_lower_yuan_per_jin": 4.8,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 107,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 34,
+      "land_type": "智慧大棚",
+      "season": "第二季",
+      "yield_jin_per_mu": 6000.0,
+      "cost_yuan_per_mu": 1200.0,
+      "price_lower_yuan_per_jin": 3.8,
+      "price_upper_yuan_per_jin": 5.8,
+      "source_excel_row": 108,
+      "provenance": "附件2直接参数行"
+    },
+    {
+      "crop_id": 17,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 7.0,
+      "price_upper_yuan_per_jin": 9.0,
+      "source_excel_row": 66,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 18,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 1200.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 67,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 19,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3600.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 68,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 20,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2400.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 4.5,
+      "source_excel_row": 69,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 21,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 70,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 22,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 8000.0,
+      "cost_yuan_per_mu": 2400.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 71,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 23,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3300.0,
+      "cost_yuan_per_mu": 2700.0,
+      "price_lower_yuan_per_jin": 4.8,
+      "price_upper_yuan_per_jin": 6.7,
+      "source_excel_row": 72,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 24,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 3000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 73,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 25,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 3000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 74,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 26,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4500.0,
+      "cost_yuan_per_mu": 3500.0,
+      "price_lower_yuan_per_jin": 5.5,
+      "price_upper_yuan_per_jin": 7.5,
+      "source_excel_row": 75,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 27,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 76,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 28,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 4000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 5.0,
+      "price_upper_yuan_per_jin": 6.5,
+      "source_excel_row": 77,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 29,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 15000.0,
+      "cost_yuan_per_mu": 3500.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.0,
+      "source_excel_row": 78,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 30,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 5000.0,
+      "cost_yuan_per_mu": 2000.0,
+      "price_lower_yuan_per_jin": 4.5,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 79,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 31,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 2000.0,
+      "cost_yuan_per_mu": 1200.0,
+      "price_lower_yuan_per_jin": 6.0,
+      "price_upper_yuan_per_jin": 8.5,
+      "source_excel_row": 80,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 32,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 12000.0,
+      "cost_yuan_per_mu": 5000.0,
+      "price_lower_yuan_per_jin": 3.0,
+      "price_upper_yuan_per_jin": 6.0,
+      "source_excel_row": 81,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 33,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 6000.0,
+      "cost_yuan_per_mu": 2500.0,
+      "price_lower_yuan_per_jin": 4.0,
+      "price_upper_yuan_per_jin": 5.0,
+      "source_excel_row": 82,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    },
+    {
+      "crop_id": 34,
+      "land_type": "智慧大棚",
+      "season": "第一季",
+      "yield_jin_per_mu": 6600.0,
+      "cost_yuan_per_mu": 1100.0,
+      "price_lower_yuan_per_jin": 3.2,
+      "price_upper_yuan_per_jin": 4.8,
+      "source_excel_row": 83,
+      "provenance": "附件2注释：智慧大棚第一季等同普通大棚第一季"
+    }
+  ],
+  "plantings_2023": [
+    {
+      "source_excel_row": 2,
+      "plot": "A1",
+      "crop_id": 6,
+      "season": "单季",
+      "area_mu": 80.0
+    },
+    {
+      "source_excel_row": 3,
+      "plot": "A2",
+      "crop_id": 7,
+      "season": "单季",
+      "area_mu": 55.0
+    },
+    {
+      "source_excel_row": 4,
+      "plot": "A3",
+      "crop_id": 7,
+      "season": "单季",
+      "area_mu": 35.0
+    },
+    {
+      "source_excel_row": 5,
+      "plot": "A4",
+      "crop_id": 1,
+      "season": "单季",
+      "area_mu": 72.0
+    },
+    {
+      "source_excel_row": 6,
+      "plot": "A5",
+      "crop_id": 4,
+      "season": "单季",
+      "area_mu": 68.0
+    },
+    {
+      "source_excel_row": 7,
+      "plot": "A6",
+      "crop_id": 8,
+      "season": "单季",
+      "area_mu": 55.0
+    },
+    {
+      "source_excel_row": 8,
+      "plot": "B1",
+      "crop_id": 6,
+      "season": "单季",
+      "area_mu": 60.0
+    },
+    {
+      "source_excel_row": 9,
+      "plot": "B2",
+      "crop_id": 2,
+      "season": "单季",
+      "area_mu": 46.0
+    },
+    {
+      "source_excel_row": 10,
+      "plot": "B3",
+      "crop_id": 3,
+      "season": "单季",
+      "area_mu": 40.0
+    },
+    {
+      "source_excel_row": 11,
+      "plot": "B4",
+      "crop_id": 4,
+      "season": "单季",
+      "area_mu": 28.0
+    },
+    {
+      "source_excel_row": 12,
+      "plot": "B5",
+      "crop_id": 5,
+      "season": "单季",
+      "area_mu": 25.0
+    },
+    {
+      "source_excel_row": 13,
+      "plot": "B6",
+      "crop_id": 8,
+      "season": "单季",
+      "area_mu": 86.0
+    },
+    {
+      "source_excel_row": 14,
+      "plot": "B7",
+      "crop_id": 6,
+      "season": "单季",
+      "area_mu": 55.0
+    },
+    {
+      "source_excel_row": 15,
+      "plot": "B8",
+      "crop_id": 8,
+      "season": "单季",
+      "area_mu": 44.0
+    },
+    {
+      "source_excel_row": 16,
+      "plot": "B9",
+      "crop_id": 9,
+      "season": "单季",
+      "area_mu": 50.0
+    },
+    {
+      "source_excel_row": 17,
+      "plot": "B10",
+      "crop_id": 10,
+      "season": "单季",
+      "area_mu": 25.0
+    },
+    {
+      "source_excel_row": 18,
+      "plot": "B11",
+      "crop_id": 1,
+      "season": "单季",
+      "area_mu": 60.0
+    },
+    {
+      "source_excel_row": 19,
+      "plot": "B12",
+      "crop_id": 7,
+      "season": "单季",
+      "area_mu": 45.0
+    },
+    {
+      "source_excel_row": 20,
+      "plot": "B13",
+      "crop_id": 14,
+      "season": "单季",
+      "area_mu": 35.0
+    },
+    {
+      "source_excel_row": 21,
+      "plot": "B14",
+      "crop_id": 15,
+      "season": "单季",
+      "area_mu": 20.0
+    },
+    {
+      "source_excel_row": 22,
+      "plot": "C1",
+      "crop_id": 11,
+      "season": "单季",
+      "area_mu": 15.0
+    },
+    {
+      "source_excel_row": 23,
+      "plot": "C2",
+      "crop_id": 12,
+      "season": "单季",
+      "area_mu": 13.0
+    },
+    {
+      "source_excel_row": 24,
+      "plot": "C3",
+      "crop_id": 1,
+      "season": "单季",
+      "area_mu": 15.0
+    },
+    {
+      "source_excel_row": 25,
+      "plot": "C4",
+      "crop_id": 13,
+      "season": "单季",
+      "area_mu": 18.0
+    },
+    {
+      "source_excel_row": 26,
+      "plot": "C5",
+      "crop_id": 6,
+      "season": "单季",
+      "area_mu": 27.0
+    },
+    {
+      "source_excel_row": 27,
+      "plot": "C6",
+      "crop_id": 3,
+      "season": "单季",
+      "area_mu": 20.0
+    },
+    {
+      "source_excel_row": 28,
+      "plot": "D1",
+      "crop_id": 20,
+      "season": "第一季",
+      "area_mu": 15.0
+    },
+    {
+      "source_excel_row": 29,
+      "plot": "D1",
+      "crop_id": 36,
+      "season": "第二季",
+      "area_mu": 15.0
+    },
+    {
+      "source_excel_row": 30,
+      "plot": "D2",
+      "crop_id": 28,
+      "season": "第一季",
+      "area_mu": 10.0
+    },
+    {
+      "source_excel_row": 31,
+      "plot": "D2",
+      "crop_id": 35,
+      "season": "第二季",
+      "area_mu": 10.0
+    },
+    {
+      "source_excel_row": 32,
+      "plot": "D3",
+      "crop_id": 21,
+      "season": "第一季",
+      "area_mu": 14.0
+    },
+    {
+      "source_excel_row": 33,
+      "plot": "D3",
+      "crop_id": 35,
+      "season": "第二季",
+      "area_mu": 14.0
+    },
+    {
+      "source_excel_row": 34,
+      "plot": "D4",
+      "crop_id": 22,
+      "season": "第一季",
+      "area_mu": 6.0
+    },
+    {
+      "source_excel_row": 35,
+      "plot": "D4",
+      "crop_id": 35,
+      "season": "第二季",
+      "area_mu": 6.0
+    },
+    {
+      "source_excel_row": 36,
+      "plot": "D5",
+      "crop_id": 17,
+      "season": "第一季",
+      "area_mu": 10.0
+    },
+    {
+      "source_excel_row": 37,
+      "plot": "D5",
+      "crop_id": 36,
+      "season": "第二季",
+      "area_mu": 10.0
+    },
+    {
+      "source_excel_row": 38,
+      "plot": "D6",
+      "crop_id": 18,
+      "season": "第一季",
+      "area_mu": 12.0
+    },
+    {
+      "source_excel_row": 39,
+      "plot": "D6",
+      "crop_id": 37,
+      "season": "第二季",
+      "area_mu": 12.0
+    },
+    {
+      "source_excel_row": 40,
+      "plot": "D7",
+      "crop_id": 16,
+      "season": "单季",
+      "area_mu": 22.0
+    },
+    {
+      "source_excel_row": 41,
+      "plot": "D8",
+      "crop_id": 16,
+      "season": "单季",
+      "area_mu": 20.0
+    },
+    {
+      "source_excel_row": 42,
+      "plot": "E1",
+      "crop_id": 18,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 43,
+      "plot": "E1",
+      "crop_id": 38,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 44,
+      "plot": "E2",
+      "crop_id": 24,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 45,
+      "plot": "E2",
+      "crop_id": 38,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 46,
+      "plot": "E3",
+      "crop_id": 25,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 47,
+      "plot": "E3",
+      "crop_id": 38,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 48,
+      "plot": "E4",
+      "crop_id": 26,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 49,
+      "plot": "E4",
+      "crop_id": 39,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 50,
+      "plot": "E5",
+      "crop_id": 28,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 51,
+      "plot": "E5",
+      "crop_id": 39,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 52,
+      "plot": "E6",
+      "crop_id": 27,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 53,
+      "plot": "E6",
+      "crop_id": 39,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 54,
+      "plot": "E7",
+      "crop_id": 19,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 55,
+      "plot": "E7",
+      "crop_id": 40,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 56,
+      "plot": "E8",
+      "crop_id": 19,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 57,
+      "plot": "E8",
+      "crop_id": 40,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 58,
+      "plot": "E9",
+      "crop_id": 18,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 59,
+      "plot": "E9",
+      "crop_id": 40,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 60,
+      "plot": "E10",
+      "crop_id": 17,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 61,
+      "plot": "E10",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 62,
+      "plot": "E11",
+      "crop_id": 17,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 63,
+      "plot": "E11",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 64,
+      "plot": "E12",
+      "crop_id": 22,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 65,
+      "plot": "E12",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 66,
+      "plot": "E13",
+      "crop_id": 21,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 67,
+      "plot": "E13",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 68,
+      "plot": "E14",
+      "crop_id": 29,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 69,
+      "plot": "E14",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 70,
+      "plot": "E15",
+      "crop_id": 30,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 71,
+      "plot": "E15",
+      "crop_id": 27,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 72,
+      "plot": "E15",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 73,
+      "plot": "E16",
+      "crop_id": 31,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 74,
+      "plot": "E16",
+      "crop_id": 41,
+      "season": "第二季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 75,
+      "plot": "F1",
+      "crop_id": 32,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 76,
+      "plot": "F1",
+      "crop_id": 33,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 77,
+      "plot": "F1",
+      "crop_id": 24,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 78,
+      "plot": "F1",
+      "crop_id": 21,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 79,
+      "plot": "F2",
+      "crop_id": 25,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 80,
+      "plot": "F2",
+      "crop_id": 26,
+      "season": "第一季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 81,
+      "plot": "F2",
+      "crop_id": 22,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 82,
+      "plot": "F2",
+      "crop_id": 29,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 83,
+      "plot": "F3",
+      "crop_id": 17,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 84,
+      "plot": "F3",
+      "crop_id": 28,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 85,
+      "plot": "F3",
+      "crop_id": 30,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 86,
+      "plot": "F4",
+      "crop_id": 19,
+      "season": "第一季",
+      "area_mu": 0.6
+    },
+    {
+      "source_excel_row": 87,
+      "plot": "F4",
+      "crop_id": 34,
+      "season": "第二季",
+      "area_mu": 0.3
+    },
+    {
+      "source_excel_row": 88,
+      "plot": "F4",
+      "crop_id": 23,
+      "season": "第二季",
+      "area_mu": 0.3
+    }
+  ],
+  "expected_sales_proxy": [
+    {
+      "crop_id": 1,
+      "season": "单季",
+      "quantity_jin": 57000.0
+    },
+    {
+      "crop_id": 2,
+      "season": "单季",
+      "quantity_jin": 21850.0
+    },
+    {
+      "crop_id": 3,
+      "season": "单季",
+      "quantity_jin": 22400.0
+    },
+    {
+      "crop_id": 4,
+      "season": "单季",
+      "quantity_jin": 33040.0
+    },
+    {
+      "crop_id": 5,
+      "season": "单季",
+      "quantity_jin": 9875.0
+    },
+    {
+      "crop_id": 6,
+      "season": "单季",
+      "quantity_jin": 170840.0
+    },
+    {
+      "crop_id": 7,
+      "season": "单季",
+      "quantity_jin": 132750.0
+    },
+    {
+      "crop_id": 8,
+      "season": "单季",
+      "quantity_jin": 71400.0
+    },
+    {
+      "crop_id": 9,
+      "season": "单季",
+      "quantity_jin": 30000.0
+    },
+    {
+      "crop_id": 10,
+      "season": "单季",
+      "quantity_jin": 12500.0
+    },
+    {
+      "crop_id": 11,
+      "season": "单季",
+      "quantity_jin": 1500.0
+    },
+    {
+      "crop_id": 12,
+      "season": "单季",
+      "quantity_jin": 35100.0
+    },
+    {
+      "crop_id": 13,
+      "season": "单季",
+      "quantity_jin": 36000.0
+    },
+    {
+      "crop_id": 14,
+      "season": "单季",
+      "quantity_jin": 14000.0
+    },
+    {
+      "crop_id": 15,
+      "season": "单季",
+      "quantity_jin": 10000.0
+    },
+    {
+      "crop_id": 16,
+      "season": "单季",
+      "quantity_jin": 21000.0
+    },
+    {
+      "crop_id": 17,
+      "season": "第一季",
+      "quantity_jin": 36480.0
+    },
+    {
+      "crop_id": 18,
+      "season": "第一季",
+      "quantity_jin": 26880.0
+    },
+    {
+      "crop_id": 19,
+      "season": "第一季",
+      "quantity_jin": 6480.0
+    },
+    {
+      "crop_id": 20,
+      "season": "第一季",
+      "quantity_jin": 30000.0
+    },
+    {
+      "crop_id": 21,
+      "season": "第一季",
+      "quantity_jin": 35400.0
+    },
+    {
+      "crop_id": 21,
+      "season": "第二季",
+      "quantity_jin": 810.0
+    },
+    {
+      "crop_id": 22,
+      "season": "第一季",
+      "quantity_jin": 43200.0
+    },
+    {
+      "crop_id": 22,
+      "season": "第二季",
+      "quantity_jin": 2160.0
+    },
+    {
+      "crop_id": 23,
+      "season": "第二季",
+      "quantity_jin": 900.0
+    },
+    {
+      "crop_id": 24,
+      "season": "第一季",
+      "quantity_jin": 1800.0
+    },
+    {
+      "crop_id": 24,
+      "season": "第二季",
+      "quantity_jin": 810.0
+    },
+    {
+      "crop_id": 25,
+      "season": "第一季",
+      "quantity_jin": 3600.0
+    },
+    {
+      "crop_id": 26,
+      "season": "第一季",
+      "quantity_jin": 4050.0
+    },
+    {
+      "crop_id": 27,
+      "season": "第一季",
+      "quantity_jin": 4500.0
+    },
+    {
+      "crop_id": 28,
+      "season": "第一季",
+      "quantity_jin": 34400.0
+    },
+    {
+      "crop_id": 28,
+      "season": "第二季",
+      "quantity_jin": 1080.0
+    },
+    {
+      "crop_id": 29,
+      "season": "第一季",
+      "quantity_jin": 9000.0
+    },
+    {
+      "crop_id": 29,
+      "season": "第二季",
+      "quantity_jin": 4050.0
+    },
+    {
+      "crop_id": 30,
+      "season": "第一季",
+      "quantity_jin": 1500.0
+    },
+    {
+      "crop_id": 30,
+      "season": "第二季",
+      "quantity_jin": 1350.0
+    },
+    {
+      "crop_id": 31,
+      "season": "第一季",
+      "quantity_jin": 1200.0
+    },
+    {
+      "crop_id": 32,
+      "season": "第一季",
+      "quantity_jin": 3600.0
+    },
+    {
+      "crop_id": 33,
+      "season": "第一季",
+      "quantity_jin": 1800.0
+    },
+    {
+      "crop_id": 34,
+      "season": "第二季",
+      "quantity_jin": 1800.0
+    },
+    {
+      "crop_id": 35,
+      "season": "第二季",
+      "quantity_jin": 150000.0
+    },
+    {
+      "crop_id": 36,
+      "season": "第二季",
+      "quantity_jin": 100000.0
+    },
+    {
+      "crop_id": 37,
+      "season": "第二季",
+      "quantity_jin": 36000.0
+    },
+    {
+      "crop_id": 38,
+      "season": "第二季",
+      "quantity_jin": 9000.0
+    },
+    {
+      "crop_id": 39,
+      "season": "第二季",
+      "quantity_jin": 7200.0
+    },
+    {
+      "crop_id": 40,
+      "season": "第二季",
+      "quantity_jin": 18000.0
+    },
+    {
+      "crop_id": 41,
+      "season": "第二季",
+      "quantity_jin": 4200.0
+    }
+  ],
+  "source_hashes": {
+    "attachment_1": "B799A137294A5C5497FED9667C5DFED6C967F1FB180316C5ADC8509CFA6F0932",
+    "attachment_2": "869081A3AB47D3BF8D0955106B622AAF0FD2C068FADA7948DA69B20EBF1D00CE"
+  }
+}

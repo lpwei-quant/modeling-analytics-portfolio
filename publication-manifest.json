@@ -1,0 +1,555 @@
+{
+  "purpose": "Explicit public file allowlist; this manifest excludes its own hash. No raw workbooks or private workspaces.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 87,
+      "sha256": "b2f367e9d5c789aa583dd09536cee097b9d20b7aca7b7b50c12c273b03459204"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 153,
+      "sha256": "9ae1ed5ca85cb200fdf4e95e3a43dbf74c45ee57c08ef93bc98e8d6831271eea"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1124,
+      "sha256": "d2c6ebc2e264fa21e058d71b34934cce2b8469b504e19c1bded85b81ecebfad3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5246,
+      "sha256": "1452f98e300e794a194abd3f90d8a1064d7c9e965ae86a345f9e24ce2b9592af"
+    },
+    {
+      "path": "application/README.md",
+      "bytes": 6160,
+      "sha256": "d0b967eb0a23903bb9c8baf5d0ee9afde94ade06effe7a5efa405bca2afee8db"
+    },
+    {
+      "path": "application/experience.json",
+      "bytes": 5692,
+      "sha256": "f68c509280aefbbd1b4a33ebe77a7cad9e91fbe10110039cd63f9cecf287a01d"
+    },
+    {
+      "path": "assets/agriculture-distribution.png",
+      "bytes": 90359,
+      "sha256": "661c0c99f3a7503f53eef6a131edec9d07ffbb16ed0b5ae2d5d435357cdecc2d"
+    },
+    {
+      "path": "assets/agriculture-distribution.svg",
+      "bytes": 55885,
+      "sha256": "2206454722b43ebe4e829c4c46745fe8ae355cbacd1a389b84d4d3d9689d1340"
+    },
+    {
+      "path": "assets/agriculture-risk.png",
+      "bytes": 95892,
+      "sha256": "b607288a2b8d7f9f5ab3c1727b494e10b4a23d5d66df0a6deca163bd8f2a164d"
+    },
+    {
+      "path": "assets/agriculture-risk.svg",
+      "bytes": 20032,
+      "sha256": "7fdf07e46e27a1eac48772a91ab33c57edd8e2ac945c4c7f0a5a39bb36c360e3"
+    },
+    {
+      "path": "assets/manifest.json",
+      "bytes": 2020,
+      "sha256": "dee0c2b2d916d620122cbb70cfb309a47a241fa7c2e03e41606f679b07ac5fc4"
+    },
+    {
+      "path": "assets/microgrid-costs.png",
+      "bytes": 44428,
+      "sha256": "1c7491b04f15da4aa29e8c1c7381ec3639ae1afc81b8d54bfabed9ecbb483d15"
+    },
+    {
+      "path": "assets/microgrid-costs.svg",
+      "bytes": 13748,
+      "sha256": "3c5f93eedd931e9ccecbdb6d84f98795dcac0192569ccd5b561636f5473742f3"
+    },
+    {
+      "path": "assets/microgrid-dispatch.png",
+      "bytes": 106826,
+      "sha256": "14f86f4120f70cc4e520dfcc6f9e5383cf93074de20a6f316600b03459f25871"
+    },
+    {
+      "path": "assets/microgrid-dispatch.svg",
+      "bytes": 28021,
+      "sha256": "73410ba2855174eb6e7b1e570af8ba6e939140d4f00253683d8da2077f4c9710"
+    },
+    {
+      "path": "docs/contribution-and-ai.md",
+      "bytes": 2204,
+      "sha256": "ce91b8008e496d7fb39ae7fa056c4abf2f2a3bceb50f2333a0c1a9d5390a2e50"
+    },
+    {
+      "path": "docs/verification.md",
+      "bytes": 3913,
+      "sha256": "4577ebd4ad51f368f2b37c5ec72feb375bbec546a96c4ba136a75410cbb26f67"
+    },
+    {
+      "path": "output/pdf/modeling-analytics-portfolio.pdf",
+      "bytes": 731643,
+      "sha256": "439a5753804bf70bdb4e29207b5bebbf20e2d88b5fb91da5ef4197d4a5c2cc3f"
+    },
+    {
+      "path": "papers/README.md",
+      "bytes": 1259,
+      "sha256": "7a7caa85c8c7b93d0272658bda2dd6eeeb5daa8b8c027013ccc57f58971f1434"
+    },
+    {
+      "path": "papers/agriculture-2024-training.pdf",
+      "bytes": 983519,
+      "sha256": "30a6c3f6cfc84e4515f9a56084bce28bfeacb6748dfb830f1dec37affba91df3"
+    },
+    {
+      "path": "papers/microgrid-2026-v17.pdf",
+      "bytes": 4086420,
+      "sha256": "d2d93c14b00820d3692c38ae113335fc44a58f9a5eb648e3ba6819ed66f10536"
+    },
+    {
+      "path": "projects/agriculture-2024/.gitignore",
+      "bytes": 49,
+      "sha256": "156f10ad131b8c3d7d9a4b077ab588fa9ee1c88cdefd41f81906bbacc766e4dd"
+    },
+    {
+      "path": "projects/agriculture-2024/README.md",
+      "bytes": 5843,
+      "sha256": "04cfdad33c1dba6509310f5d8613ab13f54ce896f7eb09da8568baadf7767b7b"
+    },
+    {
+      "path": "projects/agriculture-2024/data-source.md",
+      "bytes": 3237,
+      "sha256": "c07d7b524240330fff581d6df26e67fd3d03ffa578c959a57f4babc33168f2d3"
+    },
+    {
+      "path": "projects/agriculture-2024/data/README.md",
+      "bytes": 3413,
+      "sha256": "ab8b10cc3ff4785bd0371075383bbb9b2bd19c0311a24ca5d41aa4b70def7cd4"
+    },
+    {
+      "path": "projects/agriculture-2024/data/frozen_reference.json",
+      "bytes": 967,
+      "sha256": "016dfb72a5200d886fd40ad1f962ce7ce17ceee35028d6b3a6d89d9d807122b7"
+    },
+    {
+      "path": "projects/agriculture-2024/data/input_basis.json",
+      "bytes": 67555,
+      "sha256": "83777d68fc6f7d74dc5c36aa988d1aec54a4078838ad99b293d30957fa29c158"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q2_final_plan.csv",
+      "bytes": 25131,
+      "sha256": "914dc3e9078957ca38465a88ea3eaa028c2cafe3501adbf60ed34652029ddbbf"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_common_paths_profits.csv",
+      "bytes": 118306,
+      "sha256": "47783e545a9b1b95e124e6ab5175cafcf68626801621400859f3cd6396852d68"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_common_paths_summary.csv",
+      "bytes": 1830,
+      "sha256": "edaff8611177d2df5fd14352c9ea9659910aa7a7218af32ba8ef37af8ea669dd"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_final_plan.csv",
+      "bytes": 24643,
+      "sha256": "91f1c0d6a1d2abc85f2a5db972596b083342e0f6a25be7f3d9ead84a6e4d75f4"
+    },
+    {
+      "path": "projects/agriculture-2024/data/q3_sensitivity_summary.csv",
+      "bytes": 8588,
+      "sha256": "3ac59dcc7ad03b3e90e805635703fe2fb8f518bd3b47b578941d226b9f8a8a3a"
+    },
+    {
+      "path": "projects/agriculture-2024/evidence/entrypoint-checks.json",
+      "bytes": 810,
+      "sha256": "9a48f6d705c7be8fb120c49ec19642d936eccaca866d0be8995731f50d3076fe"
+    },
+    {
+      "path": "projects/agriculture-2024/evidence/input_reconstruction.json",
+      "bytes": 777,
+      "sha256": "2fddf77a77fb2b945e57fc86181f39cd458dd6687c40683980e8fa997e973817"
+    },
+    {
+      "path": "projects/agriculture-2024/evidence/verification.json",
+      "bytes": 8413,
+      "sha256": "10d5b0fddd8d387f40532beffcd490144241d9c8175f856b680d701848858fd6"
+    },
+    {
+      "path": "projects/agriculture-2024/historical-inputs/baseline_2023.csv",
+      "bytes": 6350,
+      "sha256": "42eba1b7a9974c68c5d020a5eeefb3a03c4d95f2fbeb0c06eb43fad0d87bba6b"
+    },
+    {
+      "path": "projects/agriculture-2024/historical-inputs/modeling_decisions_v1.md",
+      "bytes": 10101,
+      "sha256": "8bed150660e93df5a980df55a50d8cdf42350cbfdbd16d9020cc28784e4ba5eb"
+    },
+    {
+      "path": "projects/agriculture-2024/optimization.md",
+      "bytes": 3607,
+      "sha256": "484de60efac8ac844a85cdead3d96b015b4890c5ca3e1171a133bbcae5b0404c"
+    },
+    {
+      "path": "projects/agriculture-2024/provenance.json",
+      "bytes": 14652,
+      "sha256": "f9f0294746ef2eeaa10eb6e3f298108e05af61821ff77b44d10f918d97833093"
+    },
+    {
+      "path": "projects/agriculture-2024/reproducibility.md",
+      "bytes": 3833,
+      "sha256": "661c2f4e8404a4d038aa0ba0e002905b3953201d5eca429ee26d9e5b407b35e1"
+    },
+    {
+      "path": "projects/agriculture-2024/requirements.txt",
+      "bytes": 124,
+      "sha256": "8aafe650a3eadd67efd94d35601e35b14b21d3a0f9b10855e86c73285394ace8"
+    },
+    {
+      "path": "projects/agriculture-2024/research-history.md",
+      "bytes": 2606,
+      "sha256": "4da9c1805de0a0d32e3eb9130fad9e97ddb827297f76cf1d51307b69010ec2af"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/prepare_inputs.py",
+      "bytes": 2299,
+      "sha256": "d8e1906df31f026b4031e589b604783d223f8a65f8784189a30f48d88b7b5068"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/prepare_optimization.py",
+      "bytes": 2083,
+      "sha256": "9dcd0d03a4d507a35635c623bd9bec83160a4e1aeb8a981c73fe78e660a191f2"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/reproduce.py",
+      "bytes": 7569,
+      "sha256": "ad15533fde1cf19342e7275466c1c2c2f1acc0e94ca192db783794df13f5086d"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/reproduce_core.py",
+      "bytes": 4834,
+      "sha256": "adda28fb878e3dcf536add4797478cb61937cd2f926ff943ff544b505369d542"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/run_q1.py",
+      "bytes": 11175,
+      "sha256": "e2dee34a1a183572bb1fa530dd231ec75dddebf0114657afc43806368ee95685"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/run_q2.py",
+      "bytes": 49227,
+      "sha256": "d5920d35bb0c5ee8a3dde513fd5a7aa6543c13001d2d41bc59da63d0f5771be2"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/run_q2_deadline_closure.py",
+      "bytes": 18909,
+      "sha256": "0a27404429561c499adeed16330ec1b606988427a081e0fda41478987bd4e2f9"
+    },
+    {
+      "path": "projects/agriculture-2024/scripts/run_q3.py",
+      "bytes": 19720,
+      "sha256": "e568208a25faf55b0dba727dd90d46169b4f67fccc227b1ac7e61fb7bbcdf9f2"
+    },
+    {
+      "path": "projects/agriculture-2024/src/build_2023_baseline.py",
+      "bytes": 22996,
+      "sha256": "3f51676fca63019c3f679db6259a598cb770eac2ed09f3732ed0848d3947ed51"
+    },
+    {
+      "path": "projects/agriculture-2024/src/create_q2_freeze_manifest_v1.py",
+      "bytes": 4630,
+      "sha256": "355e252581d378294f29a8062eff85dd8db6c53a95482cd956dce2b43ec42987"
+    },
+    {
+      "path": "projects/agriculture-2024/src/portable_data.py",
+      "bytes": 2301,
+      "sha256": "3e4c7b33ba898993b81a049725675c7c472d852bf1efea2197ac0ad23d875fe3"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q1_data.py",
+      "bytes": 20178,
+      "sha256": "3c4dfebf9c1bb638ccaa884ca9d2e184be48e4405d8bcccd371434ab67b919da"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q1_model.py",
+      "bytes": 17752,
+      "sha256": "47665edbd4535d6cf272c01497cfedc7e7c7c9c385d2233aea8302909ff1758a"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q1_outputs.py",
+      "bytes": 13071,
+      "sha256": "45b881fcc43aeacd0c08ac296e4fa98242c7c4829a61fc2771dfd77bbbea4bf4"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q1_validate.py",
+      "bytes": 20980,
+      "sha256": "3c9e3b341cf279940828e2e0cb82f461a031befb9653dac7980922753786a313"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q2_config.py",
+      "bytes": 2279,
+      "sha256": "2836956c37b455d8378c774ff61262a99d07c05879110adf395d65f3bbb02bae"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q2_model.py",
+      "bytes": 17017,
+      "sha256": "f40269c003c40dd1b810b15a3857e76cabaa94c4bb57f67afa60edfdf2a6e2c4"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q2_outputs.py",
+      "bytes": 7592,
+      "sha256": "1d23bb2c7d8d8f00ddcc2d0e8ed16cd15ec1d517ce2c05bf6678a9902575dd1e"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q2_uncertainty.py",
+      "bytes": 7912,
+      "sha256": "d68105af8aa83a957a775f20319f1ffc05bc83d5445520ab345dfb59cc9f03f7"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q2_validate.py",
+      "bytes": 29480,
+      "sha256": "7c19803850ea80f4e710a56b4eed7c5c41058b5b0d55318765e5e828f4357c30"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q3_config.py",
+      "bytes": 3744,
+      "sha256": "0eb43b510d1a41727575764ec7a10d97dadcc6052c0cf47964b4763ad3a91e33"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q3_model.py",
+      "bytes": 5554,
+      "sha256": "d78af1b9fe5175094566e3e6f6fb43618e07d4de5bcc360848ee4fd66ae59de5"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q3_scenarios.py",
+      "bytes": 11076,
+      "sha256": "71f6e7a2e95dad1ec4e9e9aff9c4b363cec07b76aa30471771b850f859e88147"
+    },
+    {
+      "path": "projects/agriculture-2024/src/q3_validate.py",
+      "bytes": 11116,
+      "sha256": "acf8292337b1652685e31fa50ac358efb37ed5b97cecfcedb33a8e152d1be3c3"
+    },
+    {
+      "path": "projects/microgrid-2026/README.md",
+      "bytes": 5232,
+      "sha256": "53745ff2c8074236eae7f3306e1110d3eff6f6d82914c4b63afaa9c64c45ef88"
+    },
+    {
+      "path": "projects/microgrid-2026/data/F04_q1_dispatch.csv",
+      "bytes": 25063,
+      "sha256": "f92454d219472e58a8e1bbbf84d26fc46635c1dc68d2ab852ba98ecc8e6efe0f"
+    },
+    {
+      "path": "projects/microgrid-2026/data/F06_q2_annual.csv",
+      "bytes": 150188,
+      "sha256": "a910b8f94cfabd9a3d7cfb1a0353dbb9342401d81a05c2fc176e6787d28e907a"
+    },
+    {
+      "path": "projects/microgrid-2026/data/F10_q3_policies.csv",
+      "bytes": 458,
+      "sha256": "be68190c9dc3bf690dd764c1499aaa8eab0b2192a0c4113de323c7c1f040dd59"
+    },
+    {
+      "path": "projects/microgrid-2026/data/F12_q4_costs.csv",
+      "bytes": 517,
+      "sha256": "0b4b891a28abc55f9c28b6d9c98a25dc4d7bcef8edae37931a09086fbf3aab4c"
+    },
+    {
+      "path": "projects/microgrid-2026/data/README.md",
+      "bytes": 1844,
+      "sha256": "a7f0d2c728edd7beed2156d6b973bf60b48496e0f84f355d6785a5464bd82cc3"
+    },
+    {
+      "path": "projects/microgrid-2026/data/q1_reference.json",
+      "bytes": 854,
+      "sha256": "66a3f565c92a6a6f1da8f8b7f6ae83c520748b281712383843dff5bee07d843a"
+    },
+    {
+      "path": "projects/microgrid-2026/data/source_notes.json",
+      "bytes": 748,
+      "sha256": "dd681ce02c63a35b1913eff46a3a7eca41ee36a2992d5fa26c56bbda8e70e778"
+    },
+    {
+      "path": "projects/microgrid-2026/data/strategy_summary.csv",
+      "bytes": 1698,
+      "sha256": "24e47fa7c787b115a5af68d709e70deb8df94d07250efe63c86a2df249759158"
+    },
+    {
+      "path": "projects/microgrid-2026/provenance.json",
+      "bytes": 7133,
+      "sha256": "5e2a2060b23b446b21e5e635ed60798084f8858cd4e461fa28682f6706287064"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/INPUTS.json",
+      "bytes": 1063,
+      "sha256": "0beda78d9841928ce6f8b973b942c76819805de9fa03c342bd56a0cea9bc04de"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/README.md",
+      "bytes": 2191,
+      "sha256": "ef46b4ff681273a6999416ba76efa0ffe01d0e51f1f6ebf3ce8b831fe67c1f1d"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/configs/q1_v2.json",
+      "bytes": 1049,
+      "sha256": "75350689a10a51e41cf2916c972665cf45e755e3466119447d69a4eedf6d4687"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/export.py",
+      "bytes": 12169,
+      "sha256": "456dae0282b54a3b69a3679f823c09d6ef9b3968d1d097fa2e2f4e2591d4da05"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/import_inputs.py",
+      "bytes": 1250,
+      "sha256": "7790e5fca5b551598afd3a539c9bd960d6f0e99a14bd19c9a3cf5905f853c2aa"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/amendment_prices.py",
+      "bytes": 2783,
+      "sha256": "05df3c01a6624cacca455a52d11cf654d77a3afa9ac86eedbabd671d16ba9be3"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/amendments.py",
+      "bytes": 12038,
+      "sha256": "b72cc40a3c42891b9355135dae7186fdd700ab6001efe1d0e328cb6ca61abed8"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/contract_cash.py",
+      "bytes": 3450,
+      "sha256": "19294ec5eb8fa7008898e585f27ad069adcf41373c39a43942c40cf9e3080cb4"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/contracts.py",
+      "bytes": 10212,
+      "sha256": "7d54c105b07cad99a3ea6c3ada93b482eccc9eccaf88652b68e57a3e95a8b570"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/control.py",
+      "bytes": 11827,
+      "sha256": "71d37ecd9fb4bd498999c8836efe9f921ca7c26bfd18b3e2e14b0b8184c1c4c7"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/dynamic_prices.py",
+      "bytes": 3076,
+      "sha256": "2135edf4c893c4a9dc5d4ef92c0f09928831f1078b9a9ad232ae6ac9f6cf4bd2"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/explicit_check.py",
+      "bytes": 8762,
+      "sha256": "b9f7496ad76490c8f49cea6fa68819ad1511b8311de5845eafe6dce3dfce24c4"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/fusion.py",
+      "bytes": 9819,
+      "sha256": "3675043ad8526290549f22a42400a73d997e14dbb2af5fac22931a7cd35d763c"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/history.py",
+      "bytes": 12048,
+      "sha256": "63a168541a709d2e38e075879b367f17c07a350e8678d6fc462eac85869eff51"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/lagged.py",
+      "bytes": 4037,
+      "sha256": "a9c91c1ff42534fae7955a0ea99ca59da7a4a5afab4606ce524a4b9efcef58fa"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/oracle.py",
+      "bytes": 6645,
+      "sha256": "37ee6a27be3008d52ab21ec5227a7227d90da17b7a3e3032a32ec7a8843dde03"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/planning.py",
+      "bytes": 13481,
+      "sha256": "67f1d6a9258876d0bde6ae9777ba85255c86633e77df0cd05ce77b49b6dfe047"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/prices.py",
+      "bytes": 3845,
+      "sha256": "1c88982e1d4473456371d84d2a73b308760b6840ca9bdb6afc3356466df39c29"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/publication.py",
+      "bytes": 11688,
+      "sha256": "0a840b358eea395ee207ab12c74738910064e643eae6a4fb7e21b5d825dac5c0"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/q1.py",
+      "bytes": 12186,
+      "sha256": "ec005e563c6519c54b1c8bc38d4d84f2cc60da69d14139e68f4b8748eee62714"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/remaining.py",
+      "bytes": 3447,
+      "sha256": "363b4aec03cc26e76cc0de2d4d2e804313170c7682fd62ee4874e907c9296790"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/model/settlement.py",
+      "bytes": 11031,
+      "sha256": "6b1aa5723303f482b4ac80e1ce87b911c70a964fae5ac1f470968d0252e1286f"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/run.py",
+      "bytes": 12673,
+      "sha256": "b6fd0453e4bd3130b3fbe59bc031e6cd30b6a9208e39937da31b4cde90eb7b3d"
+    },
+    {
+      "path": "projects/microgrid-2026/reproduction/verify.py",
+      "bytes": 22192,
+      "sha256": "7d795757b94657881dea395a11e3d7420ff4d1b389419034e0564dc9003cf423"
+    },
+    {
+      "path": "projects/microgrid-2026/research-history.md",
+      "bytes": 2250,
+      "sha256": "5832bc8d1c98e52cfe8254e03ac4f865a5005d2cfba2384f57a82e16065844d2"
+    },
+    {
+      "path": "projects/microgrid-2026/verification/representative.json",
+      "bytes": 1537,
+      "sha256": "3a38e06e58e21c631ddb47856d6d36afde486a9a37cc9867755cee19ff4f953b"
+    },
+    {
+      "path": "projects/microgrid-2026/verification/small-model-checks.json",
+      "bytes": 17157,
+      "sha256": "dc4bad5e54d10c0e94c3b7a98094e5299aebd45b0479e85ca1ea49d3c8b193e3"
+    },
+    {
+      "path": "projects/microgrid-2026/verify_representative.py",
+      "bytes": 3560,
+      "sha256": "a0a82db466a5253d58556caf9c72494c9c4512675560443525c58a0680cf384b"
+    },
+    {
+      "path": "requirements-lock.txt",
+      "bytes": 342,
+      "sha256": "4621cbe5c0eec8ce034883c7d0345754494ebfc60a392ea35fa83abc9dc277b1"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 108,
+      "sha256": "f9577f2cf7945e5afa534f9780917c6d6adf5b7da7e81dd39d2f9c27f278ebe7"
+    },
+    {
+      "path": "scripts/build_figures.py",
+      "bytes": 4999,
+      "sha256": "fa2351ff69a3654502095e30b7f85d6877d9afd38a24dc000c73422385fd4d52"
+    },
+    {
+      "path": "scripts/build_portfolio.py",
+      "bytes": 14959,
+      "sha256": "173c58ce94c6a8d3ef513696832ec14b2204f1cbff53dfc986e718f463bae4bd"
+    },
+    {
+      "path": "scripts/check_portfolio.py",
+      "bytes": 4228,
+      "sha256": "d4285c449e466e778760638f637e28ea8062eeae7c4d98e0762f23f60b790145"
+    }
+  ]
+}

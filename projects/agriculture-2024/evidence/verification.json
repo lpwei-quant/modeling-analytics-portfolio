@@ -1,0 +1,218 @@
+{
+  "status": "PASS",
+  "verified_at_utc": "2026-09-19T12:59:34.320798+00:00",
+  "scope": "fixed Q2/Q3 plans on shared Q3 half-price-surplus evaluation paths; no reoptimization",
+  "classification": "Simulated out-of-sample evaluation, not observed agricultural performance",
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1"
+  },
+  "design": {
+    "paths": 3000,
+    "seed": 20240821,
+    "sampling": "mc",
+    "surplus_discount": 0.5,
+    "cvar_beta": 0.9,
+    "common_random_numbers": true,
+    "optimization_performed": false
+  },
+  "dimensions": {
+    "plots": 54,
+    "crops": 41,
+    "land_area_mu": 1213.0
+  },
+  "numeric_tolerance_yuan": 0.1,
+  "plans": {
+    "q2_frozen": {
+      "metrics": {
+        "mean_profit_yuan": 69651139.2432835,
+        "standard_deviation_yuan": 1187997.1384353207,
+        "quantile_05_yuan": 67687073.42275624,
+        "quantile_10_yuan": 68128802.93516818,
+        "quantile_20_yuan": 68663058.55226316,
+        "cvar_90_yuan": 67553632.41479401,
+        "minimum_profit_yuan": 65621955.507120356,
+        "mean_cost_yuan": 8155229.578445226,
+        "mean_production_jin": 16646789.202192815,
+        "mean_normal_sales_jin": 7105508.735242691,
+        "mean_surplus_jin": 9541280.466950126
+      },
+      "maximum_summary_absolute_difference": 4.470348358154297e-08,
+      "maximum_path_profit_absolute_difference_yuan": 5.21540641784668e-08,
+      "agricultural_validation": {
+        "passed": true,
+        "findings": [
+          {
+            "name": "compatible_key_domain",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "invalid=0, omitted_zero_cells=6740"
+          },
+          {
+            "name": "finite_nonnegative_area",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "bad_values=0"
+          },
+          {
+            "name": "plot_season_capacity",
+            "passed": true,
+            "max_violation": 1.0018652574217413e-12,
+            "details": "independent capacity sums"
+          },
+          {
+            "name": "irrigated_whole_plot_regime",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "rice versus vegetables"
+          },
+          {
+            "name": "irrigated_second_season_single_crop",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "positive-area crop count minus one"
+          },
+          {
+            "name": "physical_opportunity_rotation",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "positive-area adjacency"
+          },
+          {
+            "name": "initial_2023_rotation",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "2023 last opportunity"
+          },
+          {
+            "name": "rolling_three_year_beans",
+            "passed": true,
+            "max_violation": 1.000088900582341e-12,
+            "details": "aggregate-area approximation"
+          }
+        ]
+      }
+    },
+    "q3_final": {
+      "metrics": {
+        "mean_profit_yuan": 69578124.67870547,
+        "standard_deviation_yuan": 1190684.5931296835,
+        "quantile_05_yuan": 67601428.23805377,
+        "quantile_10_yuan": 68045444.13271768,
+        "quantile_20_yuan": 68579326.0222044,
+        "cvar_90_yuan": 67476465.27046828,
+        "minimum_profit_yuan": 65508573.05635401,
+        "mean_cost_yuan": 8122961.603339912,
+        "mean_production_jin": 16615443.333685506,
+        "mean_normal_sales_jin": 7055400.623646474,
+        "mean_surplus_jin": 9560042.710039033
+      },
+      "maximum_summary_absolute_difference": 2.9802322387695312e-08,
+      "maximum_path_profit_absolute_difference_yuan": 5.21540641784668e-08,
+      "agricultural_validation": {
+        "passed": true,
+        "findings": [
+          {
+            "name": "compatible_key_domain",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "invalid=0, omitted_zero_cells=6755"
+          },
+          {
+            "name": "finite_nonnegative_area",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "bad_values=0"
+          },
+          {
+            "name": "plot_season_capacity",
+            "passed": true,
+            "max_violation": 1.000088900582341e-12,
+            "details": "independent capacity sums"
+          },
+          {
+            "name": "irrigated_whole_plot_regime",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "rice versus vegetables"
+          },
+          {
+            "name": "irrigated_second_season_single_crop",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "positive-area crop count minus one"
+          },
+          {
+            "name": "physical_opportunity_rotation",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "positive-area adjacency"
+          },
+          {
+            "name": "initial_2023_rotation",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "2023 last opportunity"
+          },
+          {
+            "name": "rolling_three_year_beans",
+            "passed": true,
+            "max_violation": 0.0,
+            "details": "aggregate-area approximation"
+          }
+        ]
+      }
+    }
+  },
+  "paired_q2_minus_q3": {
+    "mean_profit_difference_yuan": 73014.56457801336,
+    "q2_better_path_count": 2998,
+    "q3_better_path_count": 2,
+    "ties": 0
+  },
+  "scenario_fingerprint_sha256": "F5CDD6C627CD74297E5A9B779A18CB11648C6063A4D2DF568371EE42E76BA9FD",
+  "historical_scenario_fingerprint_sha256": "960991C4DD0A17AC55A5D40B10549C43AA5CFB21D98412454286EFD81BB57DC4",
+  "scenario_fingerprint_matches": false,
+  "sensitivity": {
+    "rows": 36,
+    "grid_complete": true,
+    "source_hash_verified": true,
+    "rerun": false
+  },
+  "portable_imports": {
+    "q1_data": "src/q1_data.py",
+    "portable_data": "src/portable_data.py",
+    "q1_model": "src/q1_model.py",
+    "q2_config": "src/q2_config.py",
+    "q2_uncertainty": "src/q2_uncertainty.py",
+    "q2_model": "src/q2_model.py",
+    "q2_validate": "src/q2_validate.py",
+    "q3_config": "src/q3_config.py",
+    "q3_scenarios": "src/q3_scenarios.py",
+    "q3_validate": "src/q3_validate.py"
+  },
+  "public_input_hashes": {
+    "src/q1_data.py": "3C4DFEBF9C1BB638CCAA884CA9D2E184BE48E4405D8BCCCD371434AB67B919DA",
+    "src/q1_model.py": "47665EDBD4535D6CF272C01497CFEDC7E7C7C9C385D2233AEA8302909FF1758A",
+    "src/q2_config.py": "2836956C37B455D8378C774FF61262A99D07C05879110ADF395D65F3BBB02BAE",
+    "src/q2_model.py": "F40269C003C40DD1B810B15A3857E76CABAA94C4BB57F67AFA60EDFDF2A6E2C4",
+    "src/q2_uncertainty.py": "D68105AF8AA83A957A775F20319F1FFC05BC83D5445520AB345DFB59CC9F03F7",
+    "src/q2_validate.py": "7C19803850EA80F4E710A56B4EED7C5C41058B5B0D55318765E5E828F4357C30",
+    "src/q3_config.py": "0EB43B510D1A41727575764EC7A10D97DADCC6052C0CF47964B4763AD3A91E33",
+    "src/q3_scenarios.py": "71F6E7A2E95DAD1EC4E9E9AFF9C4B363CEC07B76AA30471771B850F859E88147",
+    "src/q3_validate.py": "ACF8292337B1652685E31FA50AC358EFB37ED5B97CECFCEDB33A8E152D1BE3C3",
+    "data/q2_final_plan.csv": "914DC3E9078957CA38465A88EA3EAA028C2CAFE3501ADBF60ED34652029DDBBF",
+    "data/q3_final_plan.csv": "91F1C0D6A1D2ABC85F2A5DB972596B083342E0F6A25BE7F3D9EAD84A6E4D75F4",
+    "data/q3_common_paths_summary.csv": "EDAFF8611177D2DF5FD14352C9EA9659910AA7A7218AF32BA8EF37AF8EA669DD",
+    "data/q3_common_paths_profits.csv": "47783E545A9B1B95E124E6AB5175CAFCF68626801621400859F3CD6396852D68",
+    "data/q3_sensitivity_summary.csv": "3AC59DCC7AD03B3E90E805635703FE2FB8F518BD3B47B578941D226B9F8A8A3A",
+    "data/input_basis.json": "83777D68FC6F7D74DC5C36AA988D1AEC54A4078838AD99B293D30957FA29C158",
+    "data/frozen_reference.json": "016DFB72A5200D886FD40AD1F962CE7CE17CEEE35028D6B3A6D89D9D807122B7"
+  },
+  "execution_source_hashes": {
+    "scripts/reproduce.py": "AD15533FDE1CF19342E7275466C1C2C2F1ACC0E94CA192DB783794DF13F5086D",
+    "src/portable_data.py": "3E4C7B33BA898993B81A049725675C7C472D852BF1EFEA2197AC0AD23D875FE3"
+  }
+}

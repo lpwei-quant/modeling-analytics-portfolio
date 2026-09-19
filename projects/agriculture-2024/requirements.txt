@@ -1,0 +1,5 @@
+# Versions used for the independently rerun fixed-plan comparison.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+openpyxl==3.1.5

@@ -1,0 +1,2 @@
+# Preserve frozen source and numeric artifacts byte for byte across platforms.
+* -text

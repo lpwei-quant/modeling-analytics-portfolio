@@ -1,0 +1,167 @@
+{
+  "source_project": "2026 CUMCM C",
+  "files": [
+    {
+      "source": "paper/c_all_v17/repro/model/amendments.py",
+      "destination": "projects/microgrid-2026/reproduction/model/amendments.py",
+      "sha256": "b72cc40a3c42891b9355135dae7186fdd700ab6001efe1d0e328cb6ca61abed8",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/amendment_prices.py",
+      "destination": "projects/microgrid-2026/reproduction/model/amendment_prices.py",
+      "sha256": "05df3c01a6624cacca455a52d11cf654d77a3afa9ac86eedbabd671d16ba9be3",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/contracts.py",
+      "destination": "projects/microgrid-2026/reproduction/model/contracts.py",
+      "sha256": "7d54c105b07cad99a3ea6c3ada93b482eccc9eccaf88652b68e57a3e95a8b570",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/contract_cash.py",
+      "destination": "projects/microgrid-2026/reproduction/model/contract_cash.py",
+      "sha256": "19294ec5eb8fa7008898e585f27ad069adcf41373c39a43942c40cf9e3080cb4",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/control.py",
+      "destination": "projects/microgrid-2026/reproduction/model/control.py",
+      "sha256": "71d37ecd9fb4bd498999c8836efe9f921ca7c26bfd18b3e2e14b0b8184c1c4c7",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/dynamic_prices.py",
+      "destination": "projects/microgrid-2026/reproduction/model/dynamic_prices.py",
+      "sha256": "2135edf4c893c4a9dc5d4ef92c0f09928831f1078b9a9ad232ae6ac9f6cf4bd2",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/explicit_check.py",
+      "destination": "projects/microgrid-2026/reproduction/model/explicit_check.py",
+      "sha256": "b9f7496ad76490c8f49cea6fa68819ad1511b8311de5845eafe6dce3dfce24c4",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/fusion.py",
+      "destination": "projects/microgrid-2026/reproduction/model/fusion.py",
+      "sha256": "3675043ad8526290549f22a42400a73d997e14dbb2af5fac22931a7cd35d763c",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/history.py",
+      "destination": "projects/microgrid-2026/reproduction/model/history.py",
+      "sha256": "63a168541a709d2e38e075879b367f17c07a350e8678d6fc462eac85869eff51",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/lagged.py",
+      "destination": "projects/microgrid-2026/reproduction/model/lagged.py",
+      "sha256": "a9c91c1ff42534fae7955a0ea99ca59da7a4a5afab4606ce524a4b9efcef58fa",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/oracle.py",
+      "destination": "projects/microgrid-2026/reproduction/model/oracle.py",
+      "sha256": "37ee6a27be3008d52ab21ec5227a7227d90da17b7a3e3032a32ec7a8843dde03",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/planning.py",
+      "destination": "projects/microgrid-2026/reproduction/model/planning.py",
+      "sha256": "67f1d6a9258876d0bde6ae9777ba85255c86633e77df0cd05ce77b49b6dfe047",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/prices.py",
+      "destination": "projects/microgrid-2026/reproduction/model/prices.py",
+      "sha256": "1c88982e1d4473456371d84d2a73b308760b6840ca9bdb6afc3356466df39c29",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/publication.py",
+      "destination": "projects/microgrid-2026/reproduction/model/publication.py",
+      "sha256": "0a840b358eea395ee207ab12c74738910064e643eae6a4fb7e21b5d825dac5c0",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/q1.py",
+      "destination": "projects/microgrid-2026/reproduction/model/q1.py",
+      "sha256": "ec005e563c6519c54b1c8bc38d4d84f2cc60da69d14139e68f4b8748eee62714",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/remaining.py",
+      "destination": "projects/microgrid-2026/reproduction/model/remaining.py",
+      "sha256": "363b4aec03cc26e76cc0de2d4d2e804313170c7682fd62ee4874e907c9296790",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/settlement.py",
+      "destination": "projects/microgrid-2026/reproduction/model/settlement.py",
+      "sha256": "6b1aa5723303f482b4ac80e1ce87b911c70a964fae5ac1f470968d0252e1286f",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/model/__init__.py",
+      "destination": "projects/microgrid-2026/reproduction/model/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/configs/q1_v2.json",
+      "destination": "projects/microgrid-2026/reproduction/configs/q1_v2.json",
+      "sha256": "75350689a10a51e41cf2916c972665cf45e755e3466119447d69a4eedf6d4687",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/run.py",
+      "destination": "projects/microgrid-2026/reproduction/run.py",
+      "sha256": "b6fd0453e4bd3130b3fbe59bc031e6cd30b6a9208e39937da31b4cde90eb7b3d",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/verify.py",
+      "destination": "projects/microgrid-2026/reproduction/verify.py",
+      "sha256": "7d795757b94657881dea395a11e3d7420ff4d1b389419034e0564dc9003cf423",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/export.py",
+      "destination": "projects/microgrid-2026/reproduction/export.py",
+      "sha256": "456dae0282b54a3b69a3679f823c09d6ef9b3968d1d097fa2e2f4e2591d4da05",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/INPUTS.json",
+      "destination": "projects/microgrid-2026/reproduction/INPUTS.json",
+      "sha256": "0beda78d9841928ce6f8b973b942c76819805de9fa03c342bd56a0cea9bc04de",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/figures/data/F04_q1_dispatch.csv",
+      "destination": "projects/microgrid-2026/data/F04_q1_dispatch.csv",
+      "sha256": "f92454d219472e58a8e1bbbf84d26fc46635c1dc68d2ab852ba98ecc8e6efe0f",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/figures/data/F06_q2_annual.csv",
+      "destination": "projects/microgrid-2026/data/F06_q2_annual.csv",
+      "sha256": "a910b8f94cfabd9a3d7cfb1a0353dbb9342401d81a05c2fc176e6787d28e907a",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/figures/data/F10_q3_policies.csv",
+      "destination": "projects/microgrid-2026/data/F10_q3_policies.csv",
+      "sha256": "be68190c9dc3bf690dd764c1499aaa8eab0b2192a0c4113de323c7c1f040dd59",
+      "public": true
+    },
+    {
+      "source": "paper/c_all_v17/repro/figures/data/F12_q4_costs.csv",
+      "destination": "projects/microgrid-2026/data/F12_q4_costs.csv",
+      "sha256": "0b4b891a28abc55f9c28b6d9c98a25dc4d7bcef8edae37931a09086fbf3aab4c",
+      "public": true
+    }
+  ]
+}
