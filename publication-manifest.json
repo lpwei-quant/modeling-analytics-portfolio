@@ -332,6 +332,16 @@
       "sha256": "acf8292337b1652685e31fa50ac358efb37ed5b97cecfcedb33a8e152d1be3c3"
     },
     {
+      "path": "projects/homework-agent/README.md",
+      "bytes": 6891,
+      "sha256": "b780a75f0f67616ce46d632af8fd3f6b5ce241db9dbe40f422efd053b273eac8"
+    },
+    {
+      "path": "projects/homework-agent/development-log.md",
+      "bytes": 4800,
+      "sha256": "a93cd71209877dbf2d683e46b3536f62eb474a4c613541ee8c6033c4b14f3667"
+    },
+    {
       "path": "projects/microgrid-2026/README.md",
       "bytes": 5232,
       "sha256": "53745ff2c8074236eae7f3306e1110d3eff6f6d82914c4b63afaa9c64c45ef88"
